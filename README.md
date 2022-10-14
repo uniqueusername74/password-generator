@@ -1,1 +1,1 @@
-# password-generator
+This is a password generator that can generate basically any combination of ever number or character on the keyboard, in order to run this, just open up visual sutdio code with the .py file then youre done! Enjoy this program :)
